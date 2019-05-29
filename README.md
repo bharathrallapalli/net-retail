@@ -60,7 +60,7 @@ A step by step series of examples that tell you how to get a development env run
                    ]
                 }
   5) You should get below output
-     {
-    "billTotal": 414.61,
-    "date": "2019-05-29T08:08:07.377+0000"
-     }
+                 {
+                "billTotal": 414.61,
+                "date": "2019-05-29T08:08:07.377+0000"
+                 }
